@@ -1,0 +1,52 @@
+body {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+h1 {
+    font-size: 50px;
+    padding-left: 10px;
+}
+
+p {
+    font-size: 20px;
+    padding-left: 10px;
+}
+
+.order-button {
+    text-decoration: none;
+    color: aliceblue;
+    background-image: linear-gradient(tomato, orange);
+    border-radius: 10px;
+    padding: 10px 40px;
+    height: 10%;
+    box-shadow: 10px 10px 40px rgb(221, 177, 177)
+}
+
+.half-width {
+    width: 48%;
+    padding-left: 20%;
+
+
+
+}
+
+.half-width img {
+    width: 90%;
+    float: right;
+    padding-left: 50%;
+}
+
+.order-food {
+    display: flex;
+
+    background-image: url(images/shapes/Frame\ 59.jpg);
+    background-repeat: no-repeat;
+    background-position: left bottom;
+
+
+
+
+}
