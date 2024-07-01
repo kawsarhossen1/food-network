@@ -92,3 +92,34 @@ p {
     margin-left: 20%;
     margin-right: 20%;
 }
+
+.recipies-item {
+    width: 40%;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding-left: 10px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+
+}
+
+.recipies-item img {
+    width: 95%;
+    margin-left: 2%;
+    margin-top: 2%;
+    border-radius: 10px;
+}
+
+.recipies-name {
+    display: flex;
+}
+
+.views {
+    width: 40%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.views-count {
+    display: flex;
+}
