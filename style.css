@@ -46,6 +46,7 @@ p {
     background-repeat: no-repeat;
     background-position: top left;
     background-size: 100%;
+    margin-top: 2%;
 }
 
 .Contact-button {
@@ -65,6 +66,7 @@ p {
     background-repeat: no-repeat;
     background-position: left top;
     background-size: 100%;
+    margin-top: 5%;
 
 }
 
@@ -85,6 +87,7 @@ p {
 
 .recipies {
     text-align: center;
+    padding-bottom: 5%;
 }
 
 .recipies-text {
@@ -117,7 +120,7 @@ p {
 
 .views {
     width: 40%;
-    margin-left: 2%;
+    margin-left: 10%;
     margin-right: 2%;
 }
 
